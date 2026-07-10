@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./build s3://udagram-test01/
+aws s3 cp --recursive --acl public-read ./build s3://testing-my-bucket-699588736528-ap-southeast-2-an/
